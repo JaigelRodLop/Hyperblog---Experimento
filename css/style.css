@@ -1,6 +1,21 @@
 body
 {
-    color:darkblue;
+    color:darkgreen;
+    text-align: left;
+    font-family: "Helvetica";
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
     text-align: center;
-    font-family: "Century";
+    border: 5px solid #128E66;
+    margin: 0 auto;
+}
+#containerh1
+{
+    font-size: 30px; 
 }
