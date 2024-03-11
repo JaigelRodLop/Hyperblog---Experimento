@@ -1,12 +1,30 @@
 body
 {
     color:darkgreen;
-    text-align: left;
-    font-family: "Helvetica";
+    text-align: center;
+    font-family: "Rubik";
     font-size: 40px;
     margin: 0;
     padding: 0;
 }
+#headboard
+{
+    background: #454545;
+    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 1em 0 0 0;
+    font-weight: light;
+    font-size: 0.8em;
+
+}
+
 #container
 {
     width: 70%;
