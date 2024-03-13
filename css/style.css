@@ -1,5 +1,6 @@
 body
 {
+    background: grey;
     color:rgb(194, 22, 22);
     text-align: left;
     font-family: "Rubik";
@@ -9,15 +10,21 @@ body
 }
 #headboard
 {
-    background: #454545;
+    background: whitesmoke;
     box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.75);
-    color: white;
+    color: #2623f3;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 }
 
-#cabecera #tagline
+#headbaord #logo
+{
+    width: 10px;
+    vertical-align: middle;
+}
+
+#headboard #tagline
 {
     padding: 1em 0 0 0;
     font-weight: light;
@@ -29,11 +36,17 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: center;
-    border: 5px solid #128E66;
+    text-align: left;
+    border: 1px solid #128E66;
     margin: 0 auto;
 }
 #containerh1
 {
     font-size: 30px; 
+}
+
+#post
+{
+    background: black;
+    padding: 1em;
 }
