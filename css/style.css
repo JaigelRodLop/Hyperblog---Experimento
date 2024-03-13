@@ -3,7 +3,7 @@ body
     color:rgb(194, 22, 22);
     text-align: left;
     font-family: "Rubik";
-    font-size: 40px;
+    font-size: 30px;
     margin: 0;
     padding: 0;
 }
@@ -33,7 +33,16 @@ body
     border: 5px solid #128E66;
     margin: 0 auto;
 }
+
 #containerh1
 {
     font-size: 30px; 
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: right;
+    padding: 0.5em
 }
