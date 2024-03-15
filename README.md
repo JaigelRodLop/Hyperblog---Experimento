@@ -9,5 +9,10 @@ Blog web - Experimento y proyecto del curso Git y Github de Platzi
 * La verdadera pasión por las buenas prácticas
 * Trucos especiales y eficientes
 * Curso realizado con Platzi
+<<<<<<< HEAD
+=======
+* Incluye ejemplos para otros sistemas operativos
+* Disponible para todas las edades
+>>>>>>> quicktest
 
 AVISO: **Este readme.md no se debe tomar en serio**
