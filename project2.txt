@@ -36,3 +36,5 @@ el mundo. Cada monstruo aporta su propio toque cultural a las
 leyendas, ofreciendo una visión fascinante de cómo las diferentes
 civilizaciones han interpretado el misterio y lo desconocido a lo
 largo de la historia.
+
+MAIN 1
